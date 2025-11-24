@@ -1,0 +1,8 @@
+길이가 10000인 레퍼런스 ACGT 문자열을 만들어 phone
+book을 만들고 trivial matching과 perfect matching을
+실행해 비교하시오.
+- Phone book은 길이가 6인 시퀀스들의 인덱스들로 구성됨
+- 허용 미스매치 수는 2
+- 길이가 18인 ACGT sequence read → 해당 read 찾기
+- Trivial matching과 perfect matching을 진행해 match가 발생한 위치
+들과 해당 match를 찾을때까지의 비교 횟수 출력할 것
